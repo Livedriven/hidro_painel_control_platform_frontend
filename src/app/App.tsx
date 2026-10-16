@@ -1,4 +1,4 @@
-import Login from "./pages/Login";
+import Login from "../features/auth/pages/Login";
 
 function App () {
     return (
