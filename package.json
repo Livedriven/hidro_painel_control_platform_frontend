@@ -2,13 +2,11 @@
   "name": "hidro_painel_control_platform_frontend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "vite --open",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "tailwind:watch": "@tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
